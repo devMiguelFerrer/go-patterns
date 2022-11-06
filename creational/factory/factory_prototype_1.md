@@ -1,10 +1,15 @@
+# Factory Pattern
+
+## Description
+In progress ...
+
+```go
 package main
 
 import "fmt"
 
 const (
 	A01 = iota
-	A02
 	B01
 )
 
@@ -36,3 +41,4 @@ func main() {
 	s2 := NewStudentFactory(B01, "Martina")
 	fmt.Println(s1, s2)
 }
+```

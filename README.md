@@ -8,11 +8,11 @@
 | [Pipeline](/concurrency/pipeline/README.md) |  | ✅ |
 | Fan-out & Fan-in |  | ❌ |
 
-## Creation Patterns
+## Creational Patterns
 | Pattern | Description | Status |
 |:-------:|:-----------:|:------:|
 | Builder |  | ❌ |
-| Factory |  | ❌ |
+| [Factory](/creational/factory/factory.md) |  | ✅ |
 | Prototype |  | ❌ |
 
 ## Structural Patterns
