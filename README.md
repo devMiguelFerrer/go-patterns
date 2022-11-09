@@ -12,8 +12,8 @@
 | Pattern | Description | Status |
 |:-------:|:-----------:|:------:|
 | Builder |  | ❌ |
-| [Factory](/creational/factory/factory.md) |  | ✅ |
-| Prototype |  | ❌ |
+| [Factory](/creational/factory/factory.md) | A factory is a helper function for making struct instances | ✅ |
+| [Prototype](/creational/prototype/prototype.md) | A prototype is a part or fully initialized object that you can copy/clone and makes use of | ✅ |
 
 ## Structural Patterns
 | Pattern | Description | Status |
